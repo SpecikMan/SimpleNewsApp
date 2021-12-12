@@ -1,10 +1,9 @@
-package com.androiddevs.mvvmnewsapp.ui
+package com.androiddevs.SimpleNewsApp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.findNavController
-import androidx.navigation.ui.setupWithNavController
-import com.androiddevs.mvvmnewsapp.databinding.ActivityNewsBinding
+import com.androiddevs.SimpleNewsApp.databinding.ActivityNewsBinding
 import kotlinx.android.synthetic.main.activity_news.*
 
 class NewsActivity : AppCompatActivity() {
